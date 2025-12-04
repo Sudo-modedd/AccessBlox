@@ -8,9 +8,6 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Build-passing-brightgreen" alt="Build Status"/>
-
-    <img src="https://img.shields.io/badge/license-MIT" alt="License"/>
-
 </p>
 
 ---
