@@ -20,7 +20,7 @@
 > ## АНТИВИРУСЫ
 > WinDivert может вызвать реакцию антивируса. WinDivert - это инструмент для перехвата и фильтрации трафика, необходимый для работы zapret. Замена iptables и NFQUEUE в Linux, которых нет под Windows. Он может использоваться как хорошими, так и плохими программами, но сам по себе не является вирусом. Драйвер WinDivert64.sys подписан для возможности загрузки в 64-битное ядро Windows. Но антивирусы склонны относить подобное к классам повышенного риска или хакерским инструментам. В случае проблем используйте исключения или выключайте антивирус совсем.
 
-*Выдержка из readme.md репозитория [bol-van/zapret-win-bundle](https://github.com/Flowseal/zapret-discord-youtube?tab=readme-ov-file)
+*Выдержка из readme.md репозитория [bol-van/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube?tab=readme-ov-file)
 
 ### ✨ Основные возможности
 
