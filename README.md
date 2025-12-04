@@ -2,7 +2,25 @@
 
 ## 🚀 Роблокс Обход (C#)
 
-![test](https://github.com/Sudo-modedd/AcessBlox/blob/main/image.jpg)
+<p align="center">
+    <img src="https://github.com/Sudo-modedd/AcessBlox/blob/main/image.jpg" alt="AccessBlox Logo" width="150" height="150"/>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Build-passing-brightgreen" alt="Build Status"/>
+
+    <img src="https://img.shields.io/badge/license-MIT-green" alt="License"/>
+
+    <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow" alt="Conventional Commits"/>
+
+    <img src="https://img.shields.io/badge/Version-1.0.0-yellow" alt="Version"/>
+
+    <br/> 
+    
+    <img src="https://img.shields.io/badge/KOOK-3%20人在线-success" alt="KOOK Online"/>
+</p>
+
+---
 
 **AccessBlox** — это утилита, разработанная на C#, которая упрощает запуск **Roblox Player** и **Roblox Studio** с одновременной активацией внешнего инструмента для обхода сетевых ограничений (`winws.exe`). Она автоматизирует сложные настройки командной строки и гарантирует запуск с необходимыми правами администратора.
 
