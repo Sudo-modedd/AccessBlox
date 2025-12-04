@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="AccessBlox/AccessBlox.csproj" Id="3fe61f20-1151-40fa-826f-de105fdfa283">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>

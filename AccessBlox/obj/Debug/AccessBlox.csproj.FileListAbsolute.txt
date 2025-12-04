@@ -1,0 +1,12 @@
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\Debug\AccessBlox.exe.config
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\Debug\AccessBlox.exe
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\Debug\AccessBlox.pdb
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\Debug\Guna.UI2.dll
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.csproj.AssemblyReference.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.Form1.resources
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.Properties.Resources.resources
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.csproj.GenerateResource.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.csproj.CoreCompileInputs.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.csproj.Up2Date
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.exe
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\Debug\AccessBlox.pdb

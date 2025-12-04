@@ -1,0 +1,16 @@
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\x64\Release\AccessBlox.exe.config
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\x64\Release\AccessBlox.exe
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\x64\Release\AccessBlox.pdb
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\bin\x64\Release\Guna.UI2.dll
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.csproj.AssemblyReference.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.Properties.Resources.resources
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.csproj.GenerateResource.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.csproj.CoreCompileInputs.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.csproj.Up2Date
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.exe
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.pdb
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.Form1.resources
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\Interop.MSScriptControl.dll
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.csproj.ResolveComReference.cache
+C:\Users\sasho\source\repos\AccessBlox\AccessBlox\obj\x64\Release\AccessBlox.SplashScreen.resources
